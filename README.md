@@ -80,21 +80,11 @@ Doctor Appointment Booking System is a full-stack web application that simplifie
 
 ---
 
-## Usage
-
-- Access the patient portal at `http://localhost:3000` (or configured port)
-- Access the admin dashboard at `http://localhost:5173` (or configured port)
-- Backend API runs on `http://localhost:5000` (default)
-
----
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
 
----
 
-## License
 
-This project is licensed under the MIT License.
 
