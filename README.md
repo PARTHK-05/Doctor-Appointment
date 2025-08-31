@@ -1,5 +1,14 @@
-﻿
+
+
+
 # Doctor Appointment Booking System
+
+
+## 🚀 Live Demo
+- [Admin & Doctor Portal](https://doctor-appointment-admin-ep7h2mvq7.vercel.app)  
+- [Patient Portal](https://doctor-appointment-patient.vercel.app)  
+
+---
 
 ## Overview
 
@@ -84,6 +93,7 @@ Doctor Appointment Booking System is a full-stack web application that simplifie
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
+
 
 
 
